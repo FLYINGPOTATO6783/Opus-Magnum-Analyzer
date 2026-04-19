@@ -1,2 +1,9 @@
-# Opus-Magnum-Analyzer
-A gif analyzer that will compare your score to top scores with the metrics: area, cost, and cycles.
+
+# Opus Magnum Analyzer
+An OCR-based tool built with Python, OpenCV, and Tesseract to compare Opus Magnum solution stats against world records.
+
+## Requirements
+* Python 3.x
+* OpenCV
+* Pytesseract
+* CustomTkinter
